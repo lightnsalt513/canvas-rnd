@@ -1,0 +1,72 @@
+///********************///
+///*     Path       *///
+///********************///
+
+// svn mode
+//$path-common-img: '/common/img';
+//$path-font: '/common/fonts';
+
+
+///********************///
+///*     Colors       *///
+///********************///
+
+$black: #000;
+$white: #fff;
+
+$color1: #000;
+$color2: #fff;
+$color3: #363636;
+$color4: #f7f7f7;
+$color5: #636363;
+$color6: #222425;
+$color7: #dadada;
+$color8: #a6a6a6;
+$color9: #7fd44f; //lightgreen
+$color10: #dc2222; //red
+$color11: #1428a0; //blue
+$color12: #e7e7e8;
+
+
+///********************///
+///*    Break Points  *///
+///********************///
+$screen-xsm: 320px;
+$screen-sm: 767px;
+$screen-md: 1024px;
+$screen-lg: 1280px;
+$screen-xlg: 1440px;
+
+
+///********************///
+///*       Fonts      *///
+///********************///
+
+$common-font-family: 'SamsungOne', arial;
+$samsungOne: 'SamsungOne', arial;
+$samsungOne-arabic: 'SamsungOneArabic',tahoma;
+$samsungOne-hebrew: 'SamsungOneHebrew',tahoma;
+$samsungOne-scn: 'SamsungOne','Microsoft Yahei', '微软雅黑', 'Simsun', '宋体', arial;
+$samsungOne-tcn: 'SamsungOne','Microsoft JhengHei', '微软雅黑', 'Simsun', '宋体', arial;
+$samsungOne-th: 'Kittithada', arial;
+$samsungOne-mm: 'zawgyione', arial, sans-serif;
+$samsungOne-sec: 'SamsungOneKorean', 'Dotum', '돋움', 'Apple SD Gothic Neo', arial;
+
+$sharpSans: 'SamsungSharpSans', arial;
+$sharpSans-arabic: 'SamsungSharpSans','SamsungOneArabic', tahoma;
+$sharpSans-hebrew: 'SamsungSharpSans','SamsungOneHebrew', tahoma;
+$sharpSans-gr: 'SamsungOne', arial;
+$sharpSans-scn: 'SamsungSharpSans','Microsoft Yahei','微软雅黑', 'Simsun', '宋体', arial;
+$sharpSans-tcn: 'SamsungSharpSans','Microsoft JhengHei', '微软雅黑', 'Simsun', '宋体', arial;
+$sharpSans-th: 'Kittithada', arial;
+$sharpSans-vn: 'SamsungSharpSans','SamsungOne', arial;
+$sharpSans-mm: 'zawgyione', arial, sans-serif;
+$sharpSans-sec: 'SamsungSharpSans', 'SamsungOneKorean', 'Dotum', '돋움', 'Apple SD Gothic Neo', arial;
+
+$th-fontsize-ratio: 1.35;
+$th-large-font: 54;
+$th-large-fontsize-ratio: 1.45;
+
+$th-lineheight-ratio: 0.75;
+$th-large-lineheight-ratio: 0.7;
+$mm-lineheight-ratio: 1.4;

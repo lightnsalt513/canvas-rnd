@@ -1,0 +1,4 @@
+@include breakpoint(mobile) {
+    .#{$component-name} {
+    }
+}

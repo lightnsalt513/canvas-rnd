@@ -1,0 +1,23 @@
+{
+  "name": "canvas-rnd",
+  "version": "1.0.0",
+  "description": "<br />\r <br />",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightnsalt513/canvas-rnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightnsalt513/canvas-rnd/issues"
+  },
+  "homepage": "https://lightnsalt513.github.io/canvas-rnd",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}

@@ -9,7 +9,7 @@
 <br />
 
 ## 1. Overview
----
+
 ### 1) 프로젝트 개요    
 * 스크롤 기반 애니메이션 효과를 다루는 프로젝트 수주를 대비하여 내부 R&amp;D 진행
 * 스크롤 위치를 탐지하는 ScrollMagic Library, TweenMax 애니메이션 library와 함께 Canvas 를 사용해 보는 R&amp;D
@@ -29,21 +29,19 @@
 <br />
 
 ## 2. 기술스택
----
-> Key Visual(KV) / Invert 컴포넌트 
 
   * **기술스택 관련** :    
     * 주요 외부 JS library로 `jQuery`, `TweenMax(GSAP)`, `ScrollMagic` 사용
     * 내부 공용 library으로는 PictureImg, PicturesLoaded 및 기타 util 코드 사용
   * **참여도 관련** :    
-    * 2개 컴포넌트 관련 모든 HTML / SCSS / JS 작업 (외부 및 내부 library 제외)
+    * Key Visual(KV), Invert 컴포넌트 관련 HTML / SCSS / JS 작업 (외부 및 내부 library 제외)
 
 
 <br />
 <br />
 
 ## 3. 주요 개발 스펙
----
+
 * **KV 컴포넌트**:    
   * 스크롤에 따라 중앙을 기점으로 텍스트가 zoom out 되면서 이미지만 보이던 상태에서 'Camera' 텍스트 노출 (텍스트 개행 미대응하며 상시 한줄 텍스트만 오는 UI)
   * 메인 텍스트가 변경되거나 다른 언어가 들어와 중앙 지점에 텍스트 영역이 없는 경우를 대비해서 컴포넌트의 최상위 HTML 태그에 좌측으로 offset값을 지정할 수 있도록 개발

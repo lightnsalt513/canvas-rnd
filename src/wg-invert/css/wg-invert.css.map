@@ -1,0 +1,20 @@
+{
+    "version": 3,
+    "mappings": "ASCK,AAAD,kBAAS,CAAC;EACN,QAAQ,EAAE,MAAM;CACnB;;AACA,AAAD,wBAAe,CAAC;EACZ,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,KAAK;CAChB;;AACA,AAAD,iBAAQ,CAAC;EFPX,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,CAAC;EACN,IAAI,EAAE,CAAC;EACP,QAAQ,EAAE,MAAM;EAChB,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,GAAG;EACX,IAAI,EAAE,wBAAwB;EEGxB,WAAW,EAAE,uBAAuB;CACvC;;AAXL,AAYI,UAZM,CAYN,MAAM,CAAC;EACH,QAAQ,EAAE,QAAQ;EAClB,OAAO,EAAE,EAAE;EACX,GAAG,EAAE,CAAC;EACN,IAAI,EAAE,CAAC;EACP,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf",
+    "sources": [
+        "../scss/wg-invert.scss",
+        "../../common/scss/_globalvars.scss",
+        "../../common/scss/_variables.scss",
+        "../../common/scss/_mixins.scss",
+        "../../common/scss/mixins/_clearfix.scss",
+        "../../common/scss/mixins/_layout.scss",
+        "../../common/scss/mixins/_responsive-design.scss",
+        "../../common/scss/mixins/_hidden.scss",
+        "../scss/_importer.scss",
+        "../scss/partials/_global.scss",
+        "../scss/partials/_tablet.scss",
+        "../scss/partials/_mobile.scss"
+    ],
+    "names": [],
+    "file": "wg-invert.css"
+}

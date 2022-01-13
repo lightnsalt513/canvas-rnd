@@ -15,7 +15,7 @@
 * 스크롤 위치를 탐지하는 ScrollMagic Library, TweenMax 애니메이션 library와 함께 Canvas 를 사용해 보는 R&amp;D
 * 해당 R&amp;D에서 직접 작업한 컴포넌트만 repo에 포함
 
-> Demo URL : 
+> Demo URL : https://lightnsalt513.github.io/canvas-rnd/
 
 
 &nbsp;
